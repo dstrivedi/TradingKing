@@ -4,7 +4,7 @@
       src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
    </div>
   <h1 align="center">
-    Team member allocation app using React & JavaScript
+    Stock Trading App using React Javascript
   </h1>
 
 
