@@ -3,9 +3,8 @@
     <img title="TypeScript" alt="JavaScript" height=230
       src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
    </div>
-  <h1 align="center">
-    Stock Trading App using React Javascript
-  </h1>
+
+<h3 align='center'>This is a stock trading app using React and JavaScript.</h3>
 
 # Features
 * Add stock to the list and view all stocks with a price.
