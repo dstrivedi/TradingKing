@@ -4,13 +4,14 @@
       src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
    </div>
 
-<h3 align='center'>This is a stock trading app using React and JavaScript.</h3>
+# Stock Trading App
+This is a Stock Trading App built using React and JavaScript. It allows users to manage and track stocks in their portfolios.
 
 # Features
-* Add stock to the list and view all stocks with a price.
-* Double-click on stock and view stock behavior in the chart.
+* Add stocks to the list and view all stocks along with their prices.
+* Double-click on stock to view its behavior in the chart.
  
-<strong><em>Take a look at the app version and also review the code : </em></strong>[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-xidpyy) :octocat: :heart_eyes:
+<strong><em>Take a look at the app version and also review the code: </em></strong>[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-xidpyy) :octocat: :heart_eyes:
 
 # Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a pull request or open an issue.
