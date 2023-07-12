@@ -7,7 +7,21 @@
     Stock Trading App using React Javascript
   </h1>
 
+# Features
+* Add stock to the list and view all stocks with a price.
+* Double-click on stock and view stock behavior in the chart.
+ 
+<strong><em>Take a look at the app version on below and also review the code : </em></strong>[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-xidpyy) :octocat: :heart_eyes:
 
-# Trading king
+# Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please create a pull request or open an issue.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-xidpyy)
+# Installation
+1. Clone the repository: git clone repository-url
+2. Navigate to the project directory: cd team-member-allocation-app
+3. Install dependencies: npm install
+
+# Usage
+1. Start the development server: npm start
+2. Open the app in your browser: http://localhost:3000
+
