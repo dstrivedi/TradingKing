@@ -4,7 +4,7 @@
       src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
    </div>
 
-# Stock Trading App
+<h1>Stock Trading App</h1>
 This is a Stock Trading App built using React and JavaScript. It allows users to manage and track stocks in their portfolios.
 
 # Features
