@@ -11,7 +11,7 @@
 * Add stock to the list and view all stocks with a price.
 * Double-click on stock and view stock behavior in the chart.
  
-<strong><em>Take a look at the app version on below and also review the code : </em></strong>[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-xidpyy) :octocat: :heart_eyes:
+<strong><em>Take a look at the app version and also review the code : </em></strong>[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-xidpyy) :octocat: :heart_eyes:
 
 # Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a pull request or open an issue.
